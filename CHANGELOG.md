@@ -1,6 +1,6 @@
 CHANGELOG
 =========
-
+test
 0.25.0
 ------
 - Text attributes set in `--color` are not reset when fzf sees another
